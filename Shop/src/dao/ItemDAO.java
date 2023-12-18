@@ -9,7 +9,6 @@ public class ItemDAO {
 	private ArrayList<Item> iList;
 	private ArrayList<String> categori;
 
-
 	public ItemDAO() {
 		iList = new ArrayList<Item>();
 		categori = new ArrayList<String>();
